@@ -14,7 +14,7 @@ Creating a CSV file like the one you described involves listing URLs and corresp
     - For example:
       ```
       https://bafybeictcegnqjquifdqbwy4nnkndwo3iy5zns7jfbkllz5hl26owidmf4.ipfs.w3s.link/orkaDank.png,0,
-      https://bafybeifv7wfzwu6en7adoe3p4jko6fwvfu7ffbacvhuiy23bi7bzm7lcke.ipfs.w3s.link/orkaDank.png,1,
+      https://bafybeihronch3buvrr7mswc3pav42snzoarc7io7vng7ikkfj4bo4wwprq.ipfs.w3s.link/head-full.png,1,
       ```
     - Continue this format for all your entries.
 
