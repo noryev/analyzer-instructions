@@ -41,3 +41,7 @@ Creating a CSV file like the one you described involves listing URLs and corresp
 7. **Final Check**: After saving the file, it's a good idea to reopen it in a text editor to ensure that the data is correctly formatted as CSV.
 
 Now your CSV file is ready to use. This file format is widely used and should be compatible with most systems and software designed to handle CSV data.
+
+8. Upload CSV file to Leto for scanning!
+   
+![Screenshot 2024-03-12 at 11 25 28](https://github.com/noryev/analyzer-instructions/assets/30084404/405819f4-e2f4-4865-9747-11ac0d6f8afb)
