@@ -13,7 +13,7 @@ Creating a CSV file like the one you described involves listing URLs and corresp
     - Enter the data in the format `URL,identifier,`, with each entry on a new line. 
     - For example:
       ```
-      https://bafybeictcegnqjquifdqbwy4nnkndwo3iy5zns7jfbkllz5hl26owidmf4.ipfs.w3s.link/orkaDank.png,0,
+      https://bafybeicbhh6jitezdcozi4lgjnivgsdvmbmstyyj6cqxmoqcq7xklyngxu.ipfs.w3s.link/doitforrey.png,0,
       https://bafybeihronch3buvrr7mswc3pav42snzoarc7io7vng7ikkfj4bo4wwprq.ipfs.w3s.link/head-full.png,1,
       ```
     - Continue this format for all your entries.
@@ -25,7 +25,7 @@ Creating a CSV file like the one you described involves listing URLs and corresp
       | A                                                         | B |
       | --------------------------------------------------------- | - |
       | https://bafybeictce.../orkaDank.png                       | 0 |
-      | https://bafybeifv7w.../orkaDank.png                       | 1 |
+      | https://bafybeihron.../head-full.png                       | 1 |
       | ...                                                       | ... |
 
 6. **Saving the File**:
