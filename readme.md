@@ -24,8 +24,8 @@ Creating a CSV file like the one you described involves listing URLs and corresp
     - Your spreadsheet will look like this:
       | A                                                         | B |
       | --------------------------------------------------------- | - |
-      | https://bafybeictce.../orkaDank.png                       | 0 |
-      | https://bafybeihron.../head-full.png                       | 1 |
+      | https://bafybeictce.../image1.png                       | 0 |
+      | https://bafybeihron.../image2.png                       | 1 |
       | ...                                                       | ... |
 
 6. **Saving the File**:
